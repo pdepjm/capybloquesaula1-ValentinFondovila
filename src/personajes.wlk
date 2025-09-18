@@ -18,3 +18,26 @@ object capy {
   
   method image() = "capy_tranqui.png"
 }
+
+object sans {
+  var property position = game.at(10,10)
+  const impactoEnLaHuellaDeCarbonoTotal = 0
+
+  var sufijo = ""
+  var imagen = "sans.webp"
+
+  method dormir() {
+    if(imagen == "sans.webp"){
+      imagen = "sansdormido.png"
+    }
+    else {
+      imagen = "sans.webp"
+    }
+  }
+
+  //sans.png sans-dormido.png method image() = "sans" + sufijo + ".png"
+
+  method impactoEnLaHuellaDeCarbono() = impactoEnLaHuellaDeCarbonoTotal
+  
+  method image() = imagen
+}
