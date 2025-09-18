@@ -67,3 +67,29 @@ object barrilDeCombustible {
     game.removeTickEvent("cambiarCombustible")
   }
 }
+
+object rueda {
+  var property position = game.at(ancho,5)
+  const impactoEnHuellaDeCarbono = 50
+
+  var ancho = 0
+
+  method impactoEnLaHuellaDeCarbono() = impactoEnHuellaDeCarbono
+
+  method varieSuAncho(){
+    ancho += 1
+  }
+
+  method volverACero(){
+    ancho = 0
+  }
+
+  method nombre() =  "rueda"
+  method image() = "rueda.jpg"
+
+  method colisionarCon(capy) {
+    capy.recolectarBasura(self)
+    game.removeTickEvent("cambiar ancho")
+    game.removeTickEvent("volver a cero")
+  }
+}
