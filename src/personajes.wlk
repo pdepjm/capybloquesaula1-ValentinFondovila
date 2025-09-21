@@ -1,4 +1,5 @@
 import wollok.game.*
+import utilidades.*
 
 object capy {
   var property position = game.origin()
@@ -20,24 +21,22 @@ object capy {
 }
 
 object sans {
-  var property position = game.at(10,10)
+  var property position = posicionAleatoria.calcular()
   const impactoEnLaHuellaDeCarbonoTotal = 0
 
-  var sufijo = ""
-  var imagen = "sans.webp"
+  var sufijo = ".png"
 
   method dormir() {
-    if(imagen == "sans.webp"){
-      imagen = "sansdormido.png"
+    if(sufijo == ".png"){
+      sufijo = "dormido.gif"
     }
     else {
-      imagen = "sans.webp"
+      sufijo = ".png"
     }
   }
 
-  //sans.png sans-dormido.png method image() = "sans" + sufijo + ".png"
-
   method impactoEnLaHuellaDeCarbono() = impactoEnLaHuellaDeCarbonoTotal
+
+  method image() = "sans" + sufijo
   
-  method image() = imagen
 }
