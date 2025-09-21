@@ -2083,3 +2083,45 @@
 {"level":"info","message":"⌛ Validating src/personajes.wlk","timeElapsed":293,"timestamp":"2025-09-21T01:33:35.148Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34msrc.juego.ejemplo\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\vfond\\OneDrive\\Documentos\\GitHub\\capybloquesaula1-ValentinFondovila\u001b[39m\u001b[23m","ok":true,"timeElapsed":777,"timestamp":"2025-09-21T01:33:52.060Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed src.juego.ejemplo on c:\\Users\\vfond\\OneDrive\\Documentos\\GitHub\\capybloquesaula1-ValentinFondovila","timeElapsed":69982,"timestamp":"2025-09-21T01:35:01.261Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":355,"timestamp":"2025-09-21T01:38:25.888Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":225,"timestamp":"2025-09-21T01:38:26.126Z"}
+{"level":"info","message":"⌛ Validating src/basuras.wlk","timeElapsed":314,"timestamp":"2025-09-21T01:38:26.990Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":113,"timestamp":"2025-09-21T01:38:27.103Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":165,"timestamp":"2025-09-21T01:38:27.270Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":126,"timestamp":"2025-09-21T01:38:27.420Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":111,"timestamp":"2025-09-21T01:38:27.531Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":167,"timestamp":"2025-09-21T01:38:27.700Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":188,"timestamp":"2025-09-21T01:38:27.889Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":172,"timestamp":"2025-09-21T01:38:28.062Z"}
+{"level":"info","message":"⌛ Validating testExample.wtest","timeElapsed":248,"timestamp":"2025-09-21T01:38:28.312Z"}
+{"level":"info","message":"⌛ Validating src/basuras.wlk","timeElapsed":241,"timestamp":"2025-09-21T01:38:28.553Z"}
+{"level":"info","message":"⌛ Validating testExample.wtest","timeElapsed":157,"timestamp":"2025-09-21T01:38:28.710Z"}
+{"level":"info","message":"⌛ Validating src/personajes.wlk","timeElapsed":202,"timestamp":"2025-09-21T01:38:28.913Z"}
+{"level":"info","message":"⌛ Validating src/utilidades.wlk","timeElapsed":173,"timestamp":"2025-09-21T01:38:29.087Z"}
+{"level":"info","message":"⌛ Validating src/planta.wlk","timeElapsed":186,"timestamp":"2025-09-21T01:38:29.273Z"}
+{"level":"info","message":"⌛ Validating src/juego.wpgm","timeElapsed":148,"timestamp":"2025-09-21T01:38:29.439Z"}
+{"level":"info","message":"⌛ Validating src/combustibles.wlk","timeElapsed":191,"timestamp":"2025-09-21T01:38:29.630Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":192,"timestamp":"2025-09-21T01:38:29.824Z"}
+{"level":"info","message":"⌛ Validating src/basuras.wlk","timeElapsed":184,"timestamp":"2025-09-21T01:38:30.021Z"}
+{"level":"info","message":"⌛ Validating testExample.wtest","timeElapsed":166,"timestamp":"2025-09-21T01:38:30.188Z"}
+{"level":"info","message":"⌛ Validating src/personajes.wlk","timeElapsed":120,"timestamp":"2025-09-21T01:38:30.309Z"}
+{"level":"info","message":"⌛ Validating src/utilidades.wlk","timeElapsed":153,"timestamp":"2025-09-21T01:38:30.463Z"}
+{"level":"info","message":"⌛ Validating src/planta.wlk","timeElapsed":125,"timestamp":"2025-09-21T01:38:30.589Z"}
+{"level":"info","message":"⌛ Validating src/juego.wpgm","timeElapsed":125,"timestamp":"2025-09-21T01:38:30.714Z"}
+{"level":"info","message":"⌛ Validating src/combustibles.wlk","timeElapsed":155,"timestamp":"2025-09-21T01:38:30.869Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":211,"timestamp":"2025-09-21T01:40:51.187Z"}
+{"level":"info","message":"⌛ Validating testExample.wtest","timeElapsed":257,"timestamp":"2025-09-21T01:40:51.489Z"}
+{"level":"info","message":"⌛ Validating src/personajes.wlk","timeElapsed":196,"timestamp":"2025-09-21T01:40:51.686Z"}
+{"level":"info","message":"⌛ Validating src/utilidades.wlk","timeElapsed":214,"timestamp":"2025-09-21T01:40:51.900Z"}
+{"level":"info","message":"⌛ Validating src/planta.wlk","timeElapsed":157,"timestamp":"2025-09-21T01:40:52.058Z"}
+{"level":"info","message":"⌛ Validating src/juego.wpgm","timeElapsed":151,"timestamp":"2025-09-21T01:40:52.210Z"}
+{"level":"info","message":"⌛ Validating src/combustibles.wlk","timeElapsed":132,"timestamp":"2025-09-21T01:40:52.344Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":178,"timestamp":"2025-09-21T01:40:52.835Z"}
+{"level":"info","message":"⌛ Validating testExample.wtest","timeElapsed":215,"timestamp":"2025-09-21T01:40:53.053Z"}
+{"level":"info","message":"⌛ Validating src/personajes.wlk","timeElapsed":161,"timestamp":"2025-09-21T01:40:53.214Z"}
+{"level":"info","message":"⌛ Validating src/utilidades.wlk","timeElapsed":162,"timestamp":"2025-09-21T01:40:53.376Z"}
+{"level":"info","message":"⌛ Validating src/planta.wlk","timeElapsed":136,"timestamp":"2025-09-21T01:40:53.513Z"}
+{"level":"info","message":"⌛ Validating src/juego.wpgm","timeElapsed":161,"timestamp":"2025-09-21T01:40:53.676Z"}
+{"level":"info","message":"⌛ Validating src/combustibles.wlk","timeElapsed":153,"timestamp":"2025-09-21T01:40:53.830Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34msrc.juego.ejemplo\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\vfond\\OneDrive\\Documentos\\GitHub\\capybloquesaula1-ValentinFondovila\u001b[39m\u001b[23m","ok":true,"timeElapsed":707,"timestamp":"2025-09-21T01:40:55.784Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed src.juego.ejemplo on c:\\Users\\vfond\\OneDrive\\Documentos\\GitHub\\capybloquesaula1-ValentinFondovila","timeElapsed":54489,"timestamp":"2025-09-21T01:41:49.563Z"}
