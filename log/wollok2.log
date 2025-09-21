@@ -2081,3 +2081,5 @@
 {"level":"info","message":"⌛ Validating src/personajes.wlk","timeElapsed":178,"timestamp":"2025-09-21T01:33:34.664Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":147,"timestamp":"2025-09-21T01:33:34.814Z"}
 {"level":"info","message":"⌛ Validating src/personajes.wlk","timeElapsed":293,"timestamp":"2025-09-21T01:33:35.148Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34msrc.juego.ejemplo\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\vfond\\OneDrive\\Documentos\\GitHub\\capybloquesaula1-ValentinFondovila\u001b[39m\u001b[23m","ok":true,"timeElapsed":777,"timestamp":"2025-09-21T01:33:52.060Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed src.juego.ejemplo on c:\\Users\\vfond\\OneDrive\\Documentos\\GitHub\\capybloquesaula1-ValentinFondovila","timeElapsed":69982,"timestamp":"2025-09-21T01:35:01.261Z"}
