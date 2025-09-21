@@ -95,4 +95,3 @@ object rueda {
     game.removeTickEvent("cambiar ancho")
     game.removeTickEvent("volver a cero")
   }
-}
