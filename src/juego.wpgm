@@ -1,5 +1,5 @@
 import wollok.game.*
-import capy.*
+import personajes.*
 import basuras.*
 import planta.*
 
@@ -11,11 +11,17 @@ program ejemplo {
   game.addVisual(lataDeCerveza)
   game.addVisual(barrilDeCombustible)
   game.addVisual(plantaDeTratamiento)
+  game.addVisual(rueda)
+  game.addVisual(sans)
   game.addVisualCharacter(capy)
-  
+
   game.onCollideDo(capy, { elemento =>
     elemento.colisionarCon(capy)
   })
+
+  game.onTick(1000, "cambiar ancho", {rueda.varieSuAncho()})
+  game.onTick(10000, "volver a cero", {rueda.volverACero()})
+  game.onTick(1000, "sans va a mimir", {sans.dormir()})
   
   // Cambiar combustible cada 5 segundos
   game.onTick(5000, "cambiarCombustible", {
